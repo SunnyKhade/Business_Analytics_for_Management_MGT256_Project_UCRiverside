@@ -1,0 +1,22 @@
+Variable_Name,Description
+factory_location,The city where the factory is located.
+destination,The destination city for the shipment.
+distance_km,The distance to the customer in kilometers.
+transport_mode,The mode of transportation used for the shipment.
+fuel_price,The fuel price per liter in USD.
+shipment_weight,The weight of the shipment in kilograms.
+shipment_volume,The volume of the shipment in cubic meters.
+num_stops,The number of stops or hubs the shipment passes through.
+shipment_urgency,The urgency level of the shipment.
+weather_conditions,The weather conditions during transportation.
+carrier_reliability,"The reliability of the carrier, expressed as a percentage."
+order_volume,The number of units in the order.
+product_type,The type of product being shipped.
+packaging_type,The type of packaging used for the shipment.
+special_handling,Indicates if the shipment requires special handling.
+customs_clearance,Indicates if customs clearance is required.
+supply_chain_disruption,Indicates if there is a supply chain disruption.
+seasonality,The seasonality factor affecting the shipment.
+temp_control,Indicates if temperature control is required.
+delivery_lead_time,The delivery lead time in days.
+id,Unique identifier for each record.
